@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Kotlin-1.4.xxx-brightgreen.svg) ![](https://img.shields.io/badge/Dagger-Hilt-orange.svg) ![](https://img.shields.io/badge/Kotlin--Android--Extensions-plugin-red.svg) ![](https://img.shields.io/badge/Clean--Code-MVVM-brightgreen.svg) ![](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)
 
 
-![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/splash_screen.png)  ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/list_screen.png) ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/detail_screen.png)
+![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/splash_screen.png)     ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/list_screen.png)    ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/detail_screen.png)
 
 ## Architecture
 
