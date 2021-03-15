@@ -95,6 +95,8 @@ dependencies {
 
     // Glide
     implementation "com.github.bumptech.glide:glide:$glide_version"
+
+    //3th Party Lib
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
 }
