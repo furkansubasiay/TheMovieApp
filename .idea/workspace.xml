@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f8d98e6-ed2f-47c5-bd8b-3532321b6156" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pcee00USNu7VwUxD3ZWRaRh76E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/CustomButton.kt_SELECTED" value="CustomButton" />
+    <property name="android-custom-view/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/CustomComponent.kt_SELECTED" value="CustomComponent" />
+    <property name="android-custom-view/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/RoundedImageView.kt_SELECTED" value="RoundedImageView" />
+    <property name="android-custom-view/Users/verisunandroid/Library/Android/sdk/sources/android-30/android/widget/ImageView.java_SELECTED" value="ImageView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1615665953161" />
+    <property name="multi-representation-preview/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/CustomButton.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/CustomComponent.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/verisunandroid/AndroidStudioProjects/FURKAN/MovieList/app/src/main/java/com/furkansubasiay/themovie/component/RoundedImageView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/verisunandroid/Library/Android/sdk/sources/android-30/android/widget/ImageView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1580912459">
+      <recent name="com.furkansubasiay.themovie.ui.movie_detail" />
+    </key>
+    <key name="android.template.-1693974962">
+      <recent name="com.furkansubasiay.movielist.ui.movie_list" />
+      <recent name="com.furkansubasiay.movielist.ui.splash" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.furkansubasiay.themovie.data" />
+      <recent name="com.furkansubasiay.themovie.data.model" />
+      <recent name="com.furkansubasiay.themovie.domain.usagecase" />
+      <recent name="com.furkansubasiay.themovie.data.network" />
+      <recent name="com.furkansubasiay.themovie.data.repository" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.furkansubasiay.themovie.component" />
+      <recent name="com.furkansubasiay.themovie.domain.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MovieList.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8d98e6-ed2f-47c5-bd8b-3532321b6156" name="Default Changelist" comment="" />
+      <created>1615486896045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615486896045</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hilt eklendi, servisler ayarlandı">
+      <created>1615637349087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615637349087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="servis entegrasyon tamamlandı.">
+      <created>1615647545415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615647545415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="room db güncellendi">
+      <created>1615648810859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615648810859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="icon eklendi.&#10;extention eklendi.">
+      <created>1615649415243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615649415243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="icon eklendi.&#10;boyut ayarlandı.">
+      <created>1615649636785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615649636785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="listeleme yapıldı">
+      <created>1615678274078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615678274078</updated>
+    </task>
+    <task id="LOCAL-00007" summary="geliştirmeler tamamlandı.">
+      <created>1615738722950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615738722951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="geliştirmeler tamamlandı.">
+      <created>1615754402342</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615754402342</updated>
+    </task>
+    <task id="LOCAL-00009" summary="geliştirmeler tamamlandı.">
+      <created>1615818671415</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615818671415</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hilt eklendi, servisler ayarlandı" />
+    <MESSAGE value="servis entegrasyon tamamlandı." />
+    <MESSAGE value="room db güncellendi" />
+    <MESSAGE value="icon eklendi.&#10;extention eklendi." />
+    <MESSAGE value="icon eklendi.&#10;boyut ayarlandı." />
+    <MESSAGE value="listeleme yapıldı" />
+    <MESSAGE value="geliştirmeler tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="geliştirmeler tamamlandı." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3617" y="445" key="#PSD" timestamp="1615624283177">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="3617" y="445" key="#PSD/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615624283177" />
+    <state x="3923" y="438" key="#com.intellij.ide.util.MemberChooser" timestamp="1615668263981">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="3923" y="454" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/1440.23.3440.1417@1440.23.3440.1417" timestamp="1615637161907" />
+    <state x="3923" y="438" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615668263981" />
+    <state x="1813" y="613" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1615636734507">
+      <screen x="1440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1813" y="613" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.826/1440.23.3440.1417@1440.23.3440.1417" timestamp="1615636734507" />
+    <state x="156" y="367" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.826@0.23.1440.826" timestamp="1615490739792" />
+    <state x="3873" y="495" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615578862483">
+      <screen x="1440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="3873" y="495" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.826/1440.23.3440.1417@1440.23.3440.1417" timestamp="1615578862483" />
+    <state x="2849" y="347" width="634" height="429" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1615637764302">
+      <screen x="1440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2849" y="347" width="634" height="429" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.826/1440.23.3440.1417@1440.23.3440.1417" timestamp="1615637764302" />
+    <state x="484" y="221" width="536" height="429" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1615488306350" />
+    <state x="2176" y="312" key="AndroidCreateResourceFileDialog" timestamp="1615717283405">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="308" y="198" key="AndroidCreateResourceFileDialog/0.23.1440.826/1440.23.3440.1417@0.23.1440.826" timestamp="1615573677056" />
+    <state x="308" y="198" key="AndroidCreateResourceFileDialog/0.23.1440.826@0.23.1440.826" timestamp="1615492774102" />
+    <state x="2176" y="312" key="AndroidCreateResourceFileDialog/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615717283405" />
+    <state x="254" y="23" width="884" height="826" key="CommitChangelistDialog2" timestamp="1615818671197">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="254" y="23" key="CommitChangelistDialog2/0.23.1440.826/1440.23.3440.1417@0.23.1440.826" timestamp="1615818671197" />
+    <state x="3650" y="283" key="CommitChangelistDialog2/0.23.1440.826/1440.23.3440.1417@1440.23.3440.1417" timestamp="1615637348879" />
+    <state x="556" y="23" width="884" height="826" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1615754402166" />
+    <state x="3650" y="274" key="CommitChangelistDialog2/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738722674" />
+    <state width="1398" height="353" key="GridCell.Tab.0.bottom" timestamp="1615816012956">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="353" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1615816012956" />
+    <state width="1750" height="350" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738781840" />
+    <state width="1398" height="353" key="GridCell.Tab.0.center" timestamp="1615816012955">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="353" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1615816012955" />
+    <state width="1750" height="350" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738781839" />
+    <state width="1398" height="353" key="GridCell.Tab.0.left" timestamp="1615816012955">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="353" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1615816012955" />
+    <state width="1750" height="350" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738781839" />
+    <state width="1398" height="353" key="GridCell.Tab.0.right" timestamp="1615816012956">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="353" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1615816012956" />
+    <state width="1750" height="350" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738781840" />
+    <state x="3593" y="345" key="SettingsEditor" timestamp="1615625455193">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="3593" y="345" key="SettingsEditor/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615625455193" />
+    <state x="321" y="187" key="Vcs.Push.Dialog.v2" timestamp="1615820373300">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="321" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.3440.1417@0.23.1440.826" timestamp="1615820373300" />
+    <state x="640" y="279" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1615754404022" />
+    <state x="3692" y="446" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615738724540" />
+    <state x="783" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615820464649">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="783" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826/1440.23.3440.1417@0.23.1440.826" timestamp="1615820464649" />
+    <state x="3875" y="627" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615649702525" />
+    <state x="542" y="337" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615820138662">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="542" y="337" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.826/1440.23.3440.1417@0.23.1440.826" timestamp="1615820138662" />
+    <state x="3916" y="511" key="refactoring.ChangeSignatureDialog" timestamp="1615625102770">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="3916" y="511" key="refactoring.ChangeSignatureDialog/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615625102770" />
+    <state x="3649" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1615718344025">
+      <screen x="1440" y="23" width="3440" height="1366" />
+    </state>
+    <state x="3649" y="335" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.23.3440.1366@1440.23.3440.1366" timestamp="1615718344025" />
+  </component>
+</project>

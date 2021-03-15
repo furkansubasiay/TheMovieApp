@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#717171</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F3F3F3</color>
+
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#4CAF50</color>
+
+    <color name="text_dark">@color/black</color>
+    <color name="text_light">@color/grey</color>
+
+    <color name="bg_button">@color/white</color>
+    <color name="button_border">@color/green</color>
+    <color name="button_press">@color/background</color>
+</resources>

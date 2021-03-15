@@ -1,0 +1,35 @@
+buildscript {
+    ext.kotlin_version = "1.4.21"
+    ext.lifecycle_version = '2.2.0'
+    ext.retrofit_version = '2.9.0'
+    ext.room_version='2.2.6'
+    ext.glide_version='4.12.0'
+    ext.hilt_version='2.28-alpha'
+    ext.hilt_viewmodel_version='1.0.0-alpha02'
+    ext.okhttp_version='4.9.0'
+    ext.logging_interceptor_version ='4.7.2'
+    ext.coroutines_core_version='1.4.2'
+    ext.coroutines_android_version='1.4.1'
+    ext.activity_ktx_version='1.2.1'
+
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:4.1.2"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "com.google.dagger:hilt-android-gradle-plugin:2.28.3-alpha"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
