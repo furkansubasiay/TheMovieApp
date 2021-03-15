@@ -20,6 +20,10 @@ The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional f
    - Dagger - Hilt
    - Glide 
 
+## Clean Simple Architecture
+
+![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/architecture.png)
+
 ## License
 
     Copyright 2021 Furkan SUBAŞIAY.
