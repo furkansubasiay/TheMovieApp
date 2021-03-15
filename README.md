@@ -4,6 +4,9 @@
 
 ![](https://img.shields.io/badge/Kotlin-1.4.xxx-brightgreen.svg) ![](https://img.shields.io/badge/Dagger-Hilt-orange.svg) ![](https://img.shields.io/badge/Kotlin--Android--Extensions-plugin-red.svg) ![](https://img.shields.io/badge/Clean--Code-MVVM-brightgreen.svg) ![](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)
 
+
+![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/splash_screen.png)  ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/list_screen.png) ![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/detail_screen.png)
+
 ## Architecture
 
 The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
@@ -19,6 +22,10 @@ The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional f
    - RoomDB
    - Dagger - Hilt
    - Glide 
+
+## Clean Simple Architecture
+
+![](https://github.com/furkansubasiay/TheMovieApp/blob/main/app/src/main/res/raw/architecture.png)
 
 ## License
 
